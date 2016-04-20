@@ -1,0 +1,96 @@
+.navbar-default{
+    background-color: #d82142;
+}
+.footer-company-about > p{
+    color: #fff !important;.
+}
+
+Body {
+    background-color: #a9a9a9;
+}
+
+/*kijk docent, dit is de stylesheet wat we gewoon hebben gebruikt voor deze ala, geweldig toch?*/
+.navbar-default a{
+    text-decoration: none !important;
+    color: #fff !important; 
+}
+.footer-company-about{
+    color: #fff !important;
+}
+.icon-bar{
+    background-color: #fff !important;
+}
+
+.active > a{
+    background-color: #420a14 !important;
+}
+#footerbewerk {
+    height: 75px;
+}
+
+#pagina{
+    margin: 0 10% 0 10%;
+}
+
+#adres {
+    float: right;
+}
+article{
+    width: 540px;
+    height: 500px;
+    margin: 10px;
+    padding: 0 0 0 0;
+    border: 1px solid #ddd;
+    background: -moz-linear-gradient(top, #94bae7 0%,
+    #fff 100%);
+    background: -webkit-gradient(linear, left top, left);
+    bottom,     from(#94bae7),  to(#fff));
+    background: -o-gradient(#94bae7 , #fff);
+}
+
+#item{
+    margin:0 0 20px 0;
+    font-family:Arial;
+    font-size:0.88em;
+    color:#4c4c4c;
+    line-height:1,6em;
+}
+
+@media only screen and (max-width: 350px) {
+    .fotologo1{
+        width: 90% !important;
+        padding: 5% !important;
+    }
+}
+.tekst{
+    
+}
+.laag0{
+    position: relative;
+    width: 500px;
+    height: 500px;
+    
+}
+.oprottenMetDieCamera{
+   position: relative;
+   width: 100%;
+   height: 70%;
+}
+
+@media only screen and (max-width: 500px) {
+    .laag0{
+        position: relative;
+        width: 100%;
+        height: 70%;
+        
+    }
+    .dezeDingHahahaSwa{
+        margin: 0 0 0 0 !important;
+        width: 100%;
+    }
+}
+
+.dezeDingHahahaSwa{ /* Afspraak form */
+    margin: 0% 20% 0% 20%;
+    width: 60%;
+}
